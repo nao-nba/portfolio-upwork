@@ -42,8 +42,10 @@ export default async function HomePage({ params }: Props) {
               <GithubIcon size={28} />
             </a>
             <a
-              href={`mailto:${siteConfig.email}`}
-              aria-label={`Send email to ${siteConfig.email}`}
+              href={siteConfig.upwork}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Upwork profile (opens in new tab)"
               className="hover:text-blue-600 transition"
             >
               <Mail size={28} />
