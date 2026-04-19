@@ -1,7 +1,7 @@
 {
   "Home": {
     "title": "Naoki Ishiguro | Portfolio",
-    "description": "GoによるAPI開発とAWS/Terraformによるインフラ構築の記録。技術の『準備と定義』を大切に、フルスタックなエンジニアリングに挑戦しています。",
+    "description": "設計の重要性を優先し、AIを活用して正確な実装を行います。コードの精査・精緻化を通じて、保守性が高くスケーラブルな解決策を保証することに集中しています。",
     "projectsHeading": "プロジェクト",
     "skillsHeading": "スキル",
     "focusingLabel": "現在注力中"
