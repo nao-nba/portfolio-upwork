@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "Naoki Ishiguro | Portfolio",
+    "description": "A record of API development with Go and infrastructure building with AWS/Terraform. Valuing 'Preparation and Definition,' I am challenging myself to full-stack engineering.",
+    "projectsHeading": "Projects",
+    "skillsHeading": "Skills",
+    "focusingLabel": "Currently Focusing"
+  },
+  "Projects": {
+    "geo-hedger": "Geopolitical Risk Analysis Tool",
+    "menkatsu-dojo": "AI-Integrated Interview Practice App"
+  },
+  "ProjectTypes": {
+    "personal": "Personal Project",
+    "hackathon": "Hackathon"
+  },
+  "ProjectDescriptions": {
+    "geo-hedger": "A strategic CLI tool that rejects passive index investing and empowers you to actively manage your portfolio through geopolitical scenario planning. Define custom scenarios (Phases) with specific asset allocation targets, track family wealth across multiple accounts and brokerages, and get automated rebalancing guides that tell you exactly who needs to trade what, where, and by how much. Built with offline resilience in mind — all data is stored in local JSON files to ensure self-sovereignty even in unstable network environments.",
+    "menkatsu-dojo": ""
+  },
+  "Common": {
+    "backToHome": "← Back to Home",
+    "viewOnGitHub": "View on GitHub"
+  }
+}

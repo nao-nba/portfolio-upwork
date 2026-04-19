@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "Naoki Ishiguro | Portfolio",
+    "description": "GoによるAPI開発とAWS/Terraformによるインフラ構築の記録。技術の『準備と定義』を大切に、フルスタックなエンジニアリングに挑戦しています。",
+    "projectsHeading": "プロジェクト",
+    "skillsHeading": "スキル",
+    "focusingLabel": "現在注力中"
+  },
+  "Projects": {
+    "geo-hedger": "地政学リスク分析ツール",
+    "menkatsu-dojo": "AI統合面接練習アプリ"
+  },
+  "ProjectTypes": {
+    "personal": "個人開発",
+    "hackathon": "ハッカソン"
+  },
+  "ProjectDescriptions": {
+    "geo-hedger": "「全世界インデックスに漫然と積み立てる時代は終わった」という哲学のもとに作られた戦略的CLIツール。地政学的シナリオ（フェーズ）をカスタム定義して目標アセット配分を設定し、家族単位で複数口座・証券会社にまたがる資産を一元管理できます。現状との乖離を可視化し、「誰がどこで何をいくら売買すべきか」を自動生成するリバランスガイドを提供します。ネットワーク障害時のオフラインフォールバックも備え、データはすべてローカルJSONファイルに保存することで自己主権を担保します。",
+    "menkatsu-dojo": ""
+  },
+  "Common": {
+    "backToHome": "← ホームへ戻る",
+    "viewOnGitHub": "GitHubで見る"
+  }
+}
