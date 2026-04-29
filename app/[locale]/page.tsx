@@ -1,5 +1,4 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Mail } from "lucide-react";
 import { GithubIcon } from "@/components/icons/GithubIcon";
 import { siteConfig } from "@/config/site";
 import { projects, skillCategories } from "@/data/content";
@@ -40,15 +39,6 @@ export default async function HomePage({ params }: Props) {
               className="hover:text-blue-600 transition"
             >
               <GithubIcon size={28} />
-            </a>
-            <a
-              href={siteConfig.upwork}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Upwork profile (opens in new tab)"
-              className="hover:text-blue-600 transition"
-            >
-              <Mail size={28} />
             </a>
           </div>
         </div>
